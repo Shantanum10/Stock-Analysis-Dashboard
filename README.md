@@ -88,6 +88,6 @@ The project helps users identify market patterns, track key financial metrics, c
 - Optimized page layouts for easy navigation
 
 6. Overview/ Demo
-- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Home.png)
+- ![ALT text](https://github.com/Shantanum10/Stock-Analysis-Dashboard/blob/main/Crypto%20Dashboard%20Light.png)
 
 - ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Overview.png)
