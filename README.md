@@ -45,44 +45,49 @@ The project helps users identify market patterns, track key financial metrics, c
 
 🧮 Stock Performance Page
 
-OHLC Candlestick & Line Trend charts
+- OHLC Candlestick & Line Trend charts
 
-Daily, Weekly & Monthly Return Analysis
+- Daily, Weekly & Monthly Return Analysis
 
-Moving Averages (SMA/EMA)
+- Moving Averages (SMA/EMA)
 
-Volatility & risk metrics visualization
+- Volatility & risk metrics visualization
 
 📊 Sector Comparison Page
 
-Side-by-side performance comparison across sectors
+- Side-by-side performance comparison across sectors
 
-Average returns, market cap & volume distribution
+- Average returns, market cap & volume distribution
 
-Top performing & underperforming sectors
+- Top performing & underperforming sectors
 
 💼 Company Analysis Page
 
-Company-wise price trend & volume overview
+- Company-wise price trend & volume overview
 
-Contribution to Index/Portfolio
+- Contribution to Index/Portfolio
 
-Fundamental metrics like PE Ratio, EPS (if included in dataset)
+- Fundamental metrics like PE Ratio, EPS (if included in dataset)
 
 🗺️ Insights / Patterns Page
 
-Long-term vs Short-term trend analysis
+- Long-term vs Short-term trend analysis
 
-High-volume breakout days
+- High-volume breakout days
 
-Correlation analysis between selected stocks
+- Correlation analysis between selected stocks
 
 🧩 UI / UX Enhancements
 
-Interactive slicers for Date, Stock, Sector, and Market Cap
+- Interactive slicers for Date, Stock, Sector, and Market Cap
 
-Clean KPIs layout with intuitive color coding
+- Clean KPIs layout with intuitive color coding
 
-Tooltip-based insights for better user understanding
+- Tooltip-based insights for better user understanding
 
-Optimized page layouts for easy navigation
+- Optimized page layouts for easy navigation
+
+6. Overview/ Demo
+- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Home.png)
+
+- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Overview.png)
